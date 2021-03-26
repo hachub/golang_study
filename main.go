@@ -49,7 +49,7 @@ func main() {
 	fmt.Println(x)
 	fmt.Println(y)
 	var num int
-	fmt.Scanf("Input a number: %d", &num)
+	fmt.Scanf("%d", &num)
 	fmt.Println("Your number is ", num)
 
 	// for
