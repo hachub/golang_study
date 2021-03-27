@@ -7,4 +7,7 @@ func main() {
 
 	// structures
 	structures()
+
+	// interfaces
+	interfaces()
 }
