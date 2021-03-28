@@ -3,11 +3,14 @@ package main
 func main() {
 
 	// base commands
-	base()
+	// base()
 
 	// structures
-	structures()
+	// structures()
 
 	// interfaces
-	interfaces()
+	// interfaces()
+
+	// multithreading
+	multithreading()
 }
