@@ -12,5 +12,8 @@ func main() {
 	// interfaces()
 
 	// multithreading
-	multithreading()
+	// multithreading()
+
+	// multithreading select
+	using_select()
 }
