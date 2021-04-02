@@ -1,11 +1,5 @@
 package main
 
-import (
-	"fmt"
-	"math"
-	m "project_001/lib"
-)
-
 func main() {
 
 	// base commands
@@ -27,5 +21,5 @@ func main() {
 	// using_buffer()
 
 	// packages
-	fmt.Println(m.Stat([]float64{2, 5, 4}, []float64{3.5, 4, 3}) + math.Pi)
+	// fmt.Println(m.Stat([]float64{2, 5, 4}, []float64{3.5, 4, 3}) + math.Pi)
 }
